@@ -9,6 +9,8 @@ html, body {
 
 h1 {
   font-family: Georgia, serif;
+  font-size: 72px;
+  color: white;
 }
 
 .vert-align {
@@ -17,8 +19,32 @@ h1 {
 }
 
 .logo-btn {
+  text-transform: uppercase;
   font-family: Georgia, serif;
   border-radius: 0;
   border: 3px solid;
   text-align: center;
+  background-color: none;
+}
+
+.btn-info {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.navbar-fixed-top {
+  text-transform: uppercase;
+  color: white;
+}
+
+.navbar-fixed-top a {
+  color: white;
+}
+
+.navbar-fixed-bottom {
+  color: white;
+}
+
+.navbar-fixed-bottom a {
+  color: lightgray;
 }
