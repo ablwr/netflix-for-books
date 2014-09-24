@@ -30,6 +30,7 @@ h1 {
 .btn-info {
   text-transform: uppercase;
   font-size: 14px;
+  margin: 10px;
 }
 
 .navbar-fixed-top {
