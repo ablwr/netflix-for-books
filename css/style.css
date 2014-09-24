@@ -5,3 +5,8 @@ html, body {
 h1 {
   font-family: Georgia, serif;
 }
+
+.vert-align {
+  padding-top:20%;
+  height:50%;
+}
