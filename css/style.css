@@ -1,5 +1,9 @@
 html, body {
   font-family: Arial, sans-serif;
+/*  background-image:url('bg.png');*/
+  background-color: #000;
+  height: 100%;
+  width: 100%;
 }
 
 h1 {
