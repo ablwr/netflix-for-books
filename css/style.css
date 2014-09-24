@@ -31,6 +31,7 @@ h1 {
   text-transform: uppercase;
   font-size: 14px;
   margin: 20px;
+  border-radius: 20px; 
 }
 
 .navbar-fixed-top {
@@ -50,6 +51,8 @@ h1 {
 
 .navbar-fixed-bottom {
   color: white;
+  font-size: 12px;
+  padding-top:30px;
 }
 
 .navbar-fixed-bottom a {
