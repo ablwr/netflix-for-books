@@ -30,15 +30,21 @@ h1 {
 .btn-info {
   text-transform: uppercase;
   font-size: 14px;
-  margin: 10px;
+  margin: 20px;
 }
 
 .navbar-fixed-top {
   text-transform: uppercase;
   color: white;
+  text-decoration: none;
 }
 
 .navbar-fixed-top a {
+  color: white;
+}
+
+.navbar-fixed-top a:hover {
+  text-decoration: none;
   color: white;
 }
 
