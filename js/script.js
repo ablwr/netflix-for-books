@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $( "#searchbar" ).show();
+  $( "#searchbar" ).hide();
 
   $( "#start" ).click(function() {
     $( "#searchbar" ).toggle();
