@@ -10,3 +10,9 @@ h1 {
   padding-top:20%;
   height:50%;
 }
+
+.logo-btn {
+  border-radius: 0;
+  border: 3px solid;
+  text-align: center;
+}
