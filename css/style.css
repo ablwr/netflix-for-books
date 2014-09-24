@@ -1,6 +1,7 @@
 html, body {
   font-family: Arial, sans-serif;
-/*  background-image:url('bg.png');*/
+  background-image: url('../breakfast.jpg');
+  background-size: cover;
   background-color: #fff;
   height: 100%;
   width: 100%;
@@ -16,6 +17,7 @@ h1 {
 }
 
 .logo-btn {
+  font-family: Georgia, serif;
   border-radius: 0;
   border: 3px solid;
   text-align: center;
