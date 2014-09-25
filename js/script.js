@@ -2,7 +2,7 @@ $(document).ready(function() {
   $( "#searchbar" ).hide();
 
   $( "#start" ).click(function() {
-    $( "#searchbar" ).toggle();
+    $( "#searchbar" ).toggle("slow");
   });
 
   $( "#submit" ).click(function() {
